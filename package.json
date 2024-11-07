@@ -1,0 +1,46 @@
+{
+ 
+  "name": "todo-assignment",
+ 
+  "version": "1.0.0",
+ 
+  "description": "a todo app",
+ 
+  "main": "todo.js",
+ 
+  "scripts": {
+ 
+   
+  "test": "echo \"Error: no test specified\" && exit 1"
+ 
+  },
+ 
+  "author": "me",
+ 
+  "license": "ISC",
+ 
+  "dependencies": {
+ 
+   
+  "config": "^3.3.12",
+ 
+   
+  "ejs": "^3.1.10",
+ 
+   
+  "express": "^4.21.1",
+ 
+   
+  "joi": "^17.13.3",
+ 
+   
+  "mongoose": "^8.7.3",
+ 
+   
+  "morgan": "^1.10.0",
+ 
+   
+  "nodemon": "^3.1.7"
+ 
+  }
+}
